@@ -24,6 +24,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
+---
 Visit tracker
-======
-<a href="https://clustrmaps.com/site/1bupr" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_J1bSlDqkAH17JefeoWFvBNFiw5CU7WL6bDNDBzGUUw&cl=ffffff"></a>
+<a href='https://clustrmaps.com/site/1byt6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=KcLuvk789zhFamaXtXifkY5Jw9m1YfE_n_5cQvGs-xw&co=ffffff&ct=808080'/></a>
