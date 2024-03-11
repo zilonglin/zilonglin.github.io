@@ -16,8 +16,6 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-Visit tracker
-<a href='https://clustrmaps.com/site/1byt6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=KcLuvk789zhFamaXtXifkY5Jw9m1YfE_n_5cQvGs-xw&co=ffffff&ct=808080'/></a>
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
