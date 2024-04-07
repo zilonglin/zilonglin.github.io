@@ -52,7 +52,7 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2019",
-      "endDate": "202X",
+      "endDate": "202X"
     },
      {
       "institution": "Shanghai Jiao Tong University",
@@ -61,7 +61,7 @@
       "area": "Information Engineering",
       "studyType": "MS",
       "startDate": "2016",
-      "endDate": "2019",
+      "endDate": "2019"
     },
     {
       "institution": "Xidian University",
@@ -70,7 +70,7 @@
       "area": "Electronic Science and Technology",
       "studyType": "BA",
       "startDate": "2012",
-      "endDate": "2016",
+      "endDate": "2016"
     }
   ],
   "awards": [
@@ -78,7 +78,7 @@
       "title": "Top-10 finalist in CSAW Best Applied Research Paper Competition",
       "date": "2022",
       "awarder": "NYU Tandon School of Engineering CSAW",
-      "url": "https://www.csaw.io/research",
+      "url": "https://www.csaw.io/research"
     }
   ],
   "certificates": [
@@ -88,7 +88,7 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
+    }
   ],
   "publications": [
     {
@@ -97,7 +97,7 @@
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
+    }
   ],
   "skills": [
     {
