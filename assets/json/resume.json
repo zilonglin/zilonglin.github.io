@@ -15,16 +15,6 @@
       "region": "Indiana"
     }
   },
-  "work": [
-    {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": ""
-    }
-  ],
   "volunteer": [
     {
       "organization": "",
@@ -92,15 +82,6 @@
       "url": "https://www.csaw.io/research"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
   "publications": [
     {
       "name": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services",
@@ -166,6 +147,25 @@
         "Adversarial Learning",
         "Multi-task Learning"
       ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Indiana University Bloomington",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2019",
+      "endDate": "202X",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
     }
   ]
 }
