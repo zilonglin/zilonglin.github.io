@@ -35,7 +35,7 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "Artifacts Committee",
       "position": "Artifacts Committee Member",
       "url": "https://www.acsac.org/2022/committees/artifact/",
       "startDate": "2022",
@@ -111,11 +111,39 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services",
+      "publisher": "ArXiv",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2401.03315",
+      "summary": ""
+    },
+    {
+      "name": "MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion",
+      "publisher": "IEEE S&P",
+      "releaseDate": "2024",
+      "url": "https://www.computer.org/csdl/proceedings-article/sp/2024/313000a049/1RjEamPnYIM",
+      "summary": ""
+    },
+    {
+      "name": "Demystifying local business search poisoning for illicit drug promotion",
+      "publisher": "NDSS",
+      "releaseDate": "2022",
+      "url": "https://www.computer.org/csdl/proceedings-article/sp/2024/313000a049/1RjEamPnYIM",
+      "summary": ""
+    },
+    {
+      "name": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services",
+      "publisher": "ArXiv",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2401.03315",
+      "summary": ""
+    },
+    {
+      "name": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services",
+      "publisher": "arXiv",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2401.03315",
+      "summary": ""
     }
   ],
   "languages": [
