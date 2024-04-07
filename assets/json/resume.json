@@ -25,18 +25,20 @@
       "highlights": ["WebConf '24 (The ACM Web Conference)", "ACSAC '23 & '22 (Annual Computer Security Applications Conference)"]
     },
     {
-      "organization": "ICANN '21 & '23 (International Conference on Artificial Neural Networks)",
+      "organization": "",
       "position": "Program Committee Member",
       "url": "https://e-nns.org/icann2023/organization/programme-committee/",
       "startDate": "2022",
-      "endDate": "2024"
+      "endDate": "2024",
+      "highlights": ["ICANN '21 & '23 (International Conference on Artificial Neural Networks)"]
     },
     {
-      "organization": "IEEE TIFS (IEEE Transactions on Information Forensics and Security), ACM TOPS (ACM Transactions on Privacy and Security), Computers & Security",
+      "organization": "",
       "position": "Journal Paper Reviewer",
       "url": "https://e-nns.org/icann2023/organization/programme-committee/",
       "startDate": "2021",
-      "endDate": "2023"
+      "endDate": "2023",
+      "highlights": ["IEEE TIFS (IEEE Transactions on Information Forensics and Security)", "ACM TOPS (ACM Transactions on Privacy and Security)", "Computers & Security"]
     },
     {
       "organization": "IEEE S&P, Usenix Security, WebConf, ACM CCS, NDSS, AisaCCS, ACSAC, IEEE EuroS&P",
