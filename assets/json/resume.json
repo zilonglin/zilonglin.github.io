@@ -13,14 +13,7 @@
       "city": "Bloomington",
       "countryCode": "US",
       "region": "Indiana"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -29,8 +22,7 @@
       "url": "",
       "startDate": "",
       "endDate": "",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     }
   ],
   "volunteer": [
@@ -132,17 +124,17 @@
       "summary": ""
     },
     {
-      "name": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services",
-      "publisher": "ArXiv",
-      "releaseDate": "2024",
-      "url": "https://arxiv.org/abs/2401.03315",
+      "name": "IDSGAN: Generative adversarial networks for attack generation against intrusion detection",
+      "publisher": "PAKDD",
+      "releaseDate": "2022",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-05981-0_7",
       "summary": ""
     },
     {
-      "name": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services",
-      "publisher": "arXiv",
-      "releaseDate": "2024",
-      "url": "https://arxiv.org/abs/2401.03315",
+      "name": "Character-level intrusion detection based on convolutional neural networks",
+      "publisher": "IEEE IJCNN",
+      "releaseDate": "2018",
+      "url": "https://ieeexplore.ieee.org/document/8488987",
       "summary": ""
     }
   ],
