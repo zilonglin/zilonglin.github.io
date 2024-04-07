@@ -35,11 +35,12 @@
   ],
   "volunteer": [
     {
-      "organization": ["WebConf '24 (The ACM Web Conference)", "ACSAC '23 & '22 (Annual Computer Security Applications Conference)"],
+      "organization": "",
       "position": "Artifacts Committee Member",
       "url": "https://www.acsac.org/2022/committees/artifact/",
       "startDate": "2022",
       "endDate": "2024"
+      "highlights": ["WebConf '24 (The ACM Web Conference)", "ACSAC '23 & '22 (Annual Computer Security Applications Conference)"]
     },
     {
       "organization": "ICANN '21 & '23 (International Conference on Artificial Neural Networks)",
