@@ -35,7 +35,7 @@
   ],
   "volunteer": [
     {
-      "organization": "WebConf '24 (The ACM Web Conference), ACSAC '23 & '22 (Annual Computer Security Applications Conference)",
+      "organization": ["WebConf '24 (The ACM Web Conference)", "ACSAC '23 & '22 (Annual Computer Security Applications Conference)"],
       "position": "Artifacts Committee Member",
       "url": "https://www.acsac.org/2022/committees/artifact/",
       "startDate": "2022",
