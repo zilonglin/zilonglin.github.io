@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-4-05 16:11:00-0400
+date: 2024-05-09 16:57:00-0400
 inline: true
 related_posts: false
 ---
-My personal website is online now. I will keep updating it.
+I won the Luddy Outstanding Researcher Award, thanks to the guidance of my advisors in my research work.
