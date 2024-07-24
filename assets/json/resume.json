@@ -51,6 +51,21 @@
       "awarder": "CSAW, NYU Tandon School of Engineering",
       "url": "https://www.csaw.io/research"
     }
+    {
+      "title": "NDSS Student Grant",
+      "date": "2022",
+      "awarder": "ISOC Network and Distributed System Security Symposium (NDSS)"
+    }
+    {
+      "title": "Luddy Outstanding Research Award",
+      "date": "2024",
+      "awarder": "Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington"
+    }
+    {
+      "title": "Student Travel Grant, IEEE S&P",
+      "date": "2024",
+      "awarder": "IEEE Symposium on Security and Privacy"
+    }
   ],
   "volunteer": [
     {
@@ -59,7 +74,7 @@
       "url": "https://www.acsac.org/2022/committees/artifact/",
       "startDate": "2022",
       "endDate": "2024",
-      "highlights": ["WebConf '24 (The ACM Web Conference)", "ACSAC '23 & '22 (Annual Computer Security Applications Conference)"]
+      "highlights": ["WebConf '24 (The ACM Web Conference)", "ACSAC '23 & '22 (Annual Computer Security Applications Conference)", "ACM CCS '24", "NDSS '25"]
     },
     {
       "organization": "",
@@ -94,7 +109,7 @@
   "publications": [
     {
       "name": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services",
-      "publisher": "ArXiv",
+      "publisher": "USENIX Security",
       "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2401.03315",
       "summary": ""
@@ -104,6 +119,12 @@
       "publisher": "IEEE S&P",
       "releaseDate": "2024",
       "url": "https://www.computer.org/csdl/proceedings-article/sp/2024/313000a049/1RjEamPnYIM",
+      "summary": ""
+    },
+    {
+      "name": "Understanding Cross-Platform Referral Traffic for Illicit Drug Promotion",
+      "publisher": "ACM CCS",
+      "releaseDate": "2024",
       "summary": ""
     },
     {
