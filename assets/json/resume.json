@@ -46,6 +46,16 @@
   ],
   "awards": [
     {
+      "title": "Luddy Outstanding Research Award",
+      "date": "2024",
+      "awarder": "Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington"
+    },
+    {
+      "title": "Student Travel Grant, IEEE S&P",
+      "date": "2024",
+      "awarder": "IEEE Symposium on Security and Privacy"
+    },
+    {
       "title": "Top-10 finalist in CSAW Best Applied Research Paper Competition",
       "date": "2022",
       "awarder": "CSAW, NYU Tandon School of Engineering",
@@ -55,16 +65,6 @@
       "title": "NDSS Student Grant",
       "date": "2022",
       "awarder": "ISOC Network and Distributed System Security Symposium (NDSS)"
-    },
-    {
-      "title": "Luddy Outstanding Research Award",
-      "date": "2024",
-      "awarder": "Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington"
-    },
-    {
-      "title": "Student Travel Grant, IEEE S&P",
-      "date": "2024",
-      "awarder": "IEEE Symposium on Security and Privacy"
     }
   ],
   "volunteer": [
@@ -104,6 +104,12 @@
       "url": "https://emerginginvestigators.org/",
       "startDate": "2024",
       "endDate": "202X"
+    },
+    {
+      "organization": "Luddy School, Indiana University Bloomington",
+      "position": "Instructor of Student Summer Intern",
+      "startDate": "2024",
+      "endDate": "2024"
     }
   ],
   "publications": [
