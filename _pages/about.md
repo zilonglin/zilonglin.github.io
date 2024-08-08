@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>zillin [at] iu.edu</p>
     <p>Luddy Hall 3051</p>
     <p>700 N Woodlawn Avenue</p>
     <p>Bloomington, IN, 47408</p>
