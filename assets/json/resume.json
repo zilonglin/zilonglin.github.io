@@ -46,6 +46,12 @@
   ],
   "awards": [
     {
+      "title": "Top-15 finalist in CSAW Best Applied Research Paper Competition",
+      "date": "2024",
+      "awarder": "CSAW, NYU Tandon School of Engineering",
+      "url": "https://www.csaw.io/research"
+    },
+    {
       "title": "Luddy Outstanding Research Award",
       "date": "2024",
       "awarder": "Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington"
@@ -53,7 +59,12 @@
     {
       "title": "Student Travel Grant, IEEE S&P",
       "date": "2024",
-      "awarder": "IEEE Symposium on Security and Privacy"
+      "awarder": "IEEE Symposium on Security and Privacy (S&P)"
+    },
+    {
+      "title": "Student Travel Grant, ACM CCS",
+      "date": "2024",
+      "awarder": "ACM Conference on Computer and Communications Security (CCS)"
     },
     {
       "title": "Top-10 finalist in CSAW Best Applied Research Paper Competition",
@@ -107,7 +118,14 @@
     },
     {
       "organization": "Luddy School, Indiana University Bloomington",
-      "position": "Instructor of Student Summer Intern",
+      "position": "Technical advisor of NSF Research Experiences for Undergraduates (REU) program",
+      "startDate": "2024",
+      "endDate": "2024"
+    },
+    {
+      "organization": "The ACM Conference on Computer and Communications Security (CCS) 2024",
+      "position": "Student volunteer",
+      "url": "https://www.sigsac.org/ccs/CCS2024/organization/volunteers.html",
       "startDate": "2024",
       "endDate": "2024"
     }
