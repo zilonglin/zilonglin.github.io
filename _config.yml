@@ -468,7 +468,7 @@ jekyll_get_json:
 jsonresume:
   - basics
   - education
-  - volunteer
+  - services
   - awards
   - certificates
   - languages
