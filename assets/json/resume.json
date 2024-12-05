@@ -130,6 +130,29 @@
       "endDate": "2024"
     }
   ],
+  "teaching": [
+    {
+      "organization": "Indiana University Bloomington",
+      "position": "Teaching Assistant",
+      "startDate": "2023",
+      "endDate": "2023",
+      "highlights": ["CSCI B365 Data Analysis and Mining"]
+    },
+    {
+      "organization": "Texas Tech University",
+      "position": "Guest Lecturer",
+      "startDate": "2024",
+      "endDate": "2024",
+      "highlights": ["CS5331 Adversarial Machine Learning"]
+    },
+    {
+      "organization": "Indiana University Bloomington",
+      "position": "Guest Lecturer",
+      "startDate": "2024",
+      "endDate": "2024",
+      "highlights": ["CSCI I590/B649 Data-Driven Security and Privacy"]
+    }
+  ],
   "publications": [
     {
       "name": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services",
