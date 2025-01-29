@@ -101,7 +101,7 @@
       "url": "https://e-nns.org/icann2023/organization/programme-committee/",
       "startDate": "2021",
       "endDate": "2023",
-      "highlights": ["IEEE TIFS (IEEE Transactions on Information Forensics and Security)", "ACM TOPS (ACM Transactions on Privacy and Security)", "Computers & Security"]
+      "highlights": ["IEEE TIFS (IEEE Transactions on Information Forensics and Security)", "ACM TOPS (ACM Transactions on Privacy and Security)", "Computers & Security", "IEEE Transactions on Big Data"]
     },
     {
       "organization": "IEEE S&P, Usenix Security, WebConf, ACM CCS, NDSS, AisaCCS, ACSAC, IEEE EuroS&P",
