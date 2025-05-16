@@ -154,12 +154,15 @@
       {{ entry.note | strip }}
     </div>
     {% if entry.award %}
-      <div style="color: #808080; margin-left: 2px;"><b>- Award</b>: <i>{{entry.award}}</i></div>
+      <div style="color: #808080; margin-left: 2px;"><b>• Award</b>: <i>{{entry.award}}</i></div>
     {% endif %}
 
-
     {% if entry.media %}
-      <span style="color: #808080; margin-left: 2px;"><b>- Media Coverage</b>: <i>{{entry.media}}</i></span>
+      <span style="color: #808080; margin-left: 2px;"><b>• Media Coverage</b>: <i>{{entry.media}}</i></span>
+    {% endif %}
+    
+    {% if entry.acceptance_rate %}
+      <span style="color: #808080; margin-left: 2px;"><b>• Acceptance Rate</b>: <i>{{ (entry.acceptance_rate * 100) | round(1) }}%</i></span>
     {% endif %}
 
 
