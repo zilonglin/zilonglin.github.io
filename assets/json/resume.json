@@ -1,210 +1,157 @@
 {
   "basics": {
-    "name": "Zilong Lin",
-    "label": "PhD Student | Research Assistant",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "",
-    "phone": "",
-    "url": "https://zilonglin.github.io",
-    "summary": "",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "700 N Woodlawn Avenue",
-      "postalCode": "IN 47408",
-      "city": "Bloomington",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
       "countryCode": "US",
-      "region": "Indiana"
-    }
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
+  "work": [
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
+  ],
   "education": [
     {
-      "institution": "Indiana University Bloomington",
-      "location": "Indiana, USA",
-      "url": "https://bloomington.iu.edu/",
-      "area": "Computer Science",
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
       "studyType": "PhD",
-      "startDate": "2019",
-      "endDate": "202X"
-    },
-     {
-      "institution": "Shanghai Jiao Tong University",
-      "location": "Shanghai, China",
-      "url": "https://en.sjtu.edu.cn/",
-      "area": "Information and Telecommunication Engineering",
-      "studyType": "Master",
-      "startDate": "2016",
-      "endDate": "2019"
-    },
-    {
-      "institution": "Xidian University",
-      "location": "Xi'an, China",
-      "url": "https://en.xidian.edu.cn/",
-      "area": "Electronic Science and Technology",
-      "studyType": "Bachelor",
-      "startDate": "2012",
-      "endDate": "2016"
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
     {
-      "title": "Top-15 finalist in CSAW Best Applied Research Paper Competition",
-      "date": "2024",
-      "awarder": "CSAW, NYU Tandon School of Engineering",
-      "url": "https://www.csaw.io/research"
-    },
-    {
-      "title": "Luddy Outstanding Research Award",
-      "date": "2024",
-      "awarder": "Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington"
-    },
-    {
-      "title": "Student Travel Grant, IEEE S&P",
-      "date": "2024",
-      "awarder": "IEEE Symposium on Security and Privacy (S&P)"
-    },
-    {
-      "title": "Student Travel Grant, ACM CCS",
-      "date": "2024",
-      "awarder": "ACM Conference on Computer and Communications Security (CCS)"
-    },
-    {
-      "title": "Top-10 finalist in CSAW Best Applied Research Paper Competition",
-      "date": "2022",
-      "awarder": "CSAW, NYU Tandon School of Engineering",
-      "url": "https://www.csaw.io/research"
-    },
-    {
-      "title": "NDSS Student Grant",
-      "date": "2022",
-      "awarder": "ISOC Network and Distributed System Security Symposium (NDSS)"
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "services": [
+  "certificates": [
     {
-      "organization": "",
-      "position": "Artifacts Committee Member",
-      "url": "https://www.acsac.org/2022/committees/artifact/",
-      "startDate": "2022",
-      "endDate": "2024",
-      "highlights": ["WebConf '24 (The ACM Web Conference)", "ACSAC '23 & '22 (Annual Computer Security Applications Conference)", "ACM CCS '24", "NDSS '25", "USENIX Security '25"]
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "organization": "",
-      "position": "Program Committee Member",
-      "url": "https://e-nns.org/icann2023/organization/programme-committee/",
-      "startDate": "2022",
-      "endDate": "2024",
-      "highlights": ["ICANN '21 & '23 (International Conference on Artificial Neural Networks)"]
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "organization": "",
-      "position": "Journal Paper Reviewer",
-      "url": "https://e-nns.org/icann2023/organization/programme-committee/",
-      "startDate": "2021",
-      "endDate": "2025",
-      "highlights": ["IEEE TIFS (IEEE Transactions on Information Forensics and Security)", "ACM TOPS (ACM Transactions on Privacy and Security)", "Computers & Security", "IEEE TDSC (IEEE Transactions on Dependable and Secure Computing)", "IEEE Transactions on Big Data"]
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
     },
     {
-      "organization": "IEEE S&P, Usenix Security, WebConf, ACM CCS, NDSS, AisaCCS, ACSAC, IEEE EuroS&P",
-      "position": "External Paper Reviewer",
-      "startDate": "2019",
-      "endDate": "2024"
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
     },
     {
-      "organization": "ICLR",
-      "position": "Paper Reviewer",
-      "startDate": "2025",
-      "endDate": "2025"
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
     },
     {
-      "organization": "The Journal of Emerging Investigators",
-      "position": "Reviewer of middle and high school scientists' papers",
-      "url": "https://emerginginvestigators.org/",
-      "startDate": "2024",
-      "endDate": "202X"
-    },
-    {
-      "organization": "Luddy School, Indiana University Bloomington",
-      "position": "Technical advisor of NSF Research Experiences for Undergraduates (REU) program",
-      "startDate": "2024",
-      "endDate": "2024"
-    },
-    {
-      "organization": "The ACM Conference on Computer and Communications Security (CCS) 2024",
-      "position": "Student volunteer",
-      "url": "https://www.sigsac.org/ccs/CCS2024/organization/volunteers.html",
-      "startDate": "2024",
-      "endDate": "2024"
-    }
-  ],
-  "teaching": [
-    {
-      "organization": "Indiana University Bloomington",
-      "position": "Teaching Assistant",
-      "startDate": "2023",
-      "endDate": "2023",
-      "highlights": ["CSCI B365 Data Analysis and Mining"]
-    },
-    {
-      "organization": "Texas Tech University",
-      "position": "Guest Lecturer",
-      "startDate": "2024",
-      "endDate": "2024",
-      "highlights": ["CS5331 Adversarial Machine Learning"]
-    },
-    {
-      "organization": "Indiana University Bloomington",
-      "position": "Guest Lecturer",
-      "startDate": "2024",
-      "endDate": "2024",
-      "highlights": ["CSCI I590/B649 Data-Driven Security and Privacy"]
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services",
-      "publisher": "USENIX Security",
-      "releaseDate": "2024",
-      "url": "https://arxiv.org/abs/2401.03315",
-      "summary": ""
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
     {
-      "name": "MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion",
-      "publisher": "IEEE S&P",
-      "releaseDate": "2024",
-      "url": "https://www.computer.org/csdl/proceedings-article/sp/2024/313000a049/1RjEamPnYIM",
-      "summary": ""
+      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-03-18",
+      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
     },
     {
-      "name": "Understanding Cross-Platform Referral Traffic for Illicit Drug Promotion",
-      "publisher": "ACM CCS",
-      "releaseDate": "2024",
-      "summary": ""
-    },
+      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1916-03-20",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+    }
+  ],
+  "skills": [
     {
-      "name": "Demystifying local business search poisoning for illicit drug promotion",
-      "publisher": "NDSS",
-      "releaseDate": "2022",
-      "url": "https://www.ndss-symposium.org/ndss-paper/auto-draft-261/",
-      "summary": ""
-    },
-    {
-      "name": "IDSGAN: Generative adversarial networks for attack generation against intrusion detection",
-      "publisher": "PAKDD",
-      "releaseDate": "2022",
-      "url": "https://link.springer.com/chapter/10.1007/978-3-031-05981-0_7",
-      "summary": ""
-    },
-    {
-      "name": "Character-level intrusion detection based on convolutional neural networks",
-      "publisher": "IEEE IJCNN",
-      "releaseDate": "2018",
-      "url": "https://ieeexplore.ieee.org/document/8488987",
-      "summary": ""
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
+      "language": "German",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -216,40 +163,38 @@
   ],
   "interests": [
     {
-      "name": "Cybercrime",
+      "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Illicit Online Promotion",
-        "AI-related Cybercrime"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Machine Learning Security",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Adversarial Learning",
-        "Multi-task Learning",
-        "Machine Learning Robustness"
-      ]
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "work": [
+  "projects": [
     {
-      "name": "Indiana University Bloomington",
-      "position": "Research Assistant",
-      "url": "",
-      "startDate": "2019",
-      "endDate": "202X",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
   ]
 }
