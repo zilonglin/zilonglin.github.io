@@ -1,25 +1,27 @@
 ---
 layout: about
-title: About
+title: about
+page-title: About
 permalink: /
-subtitle: PhD Student in Computer Science at <a href='https://bloomington.iu.edu/'>Indiana University Bloomington</a>.
+subtitle:
 
 profile:
+  name: Thomas R. Pisanic II, PhD
+  position: Epidiagnostics Group Investigator<br />Associate Research Professor <br /> <a href="https://breakthroughcancer.org/">Break <i>Through</i> Cancer</a> Scientist
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><strong>Email:</strong> zillin [at] iu.edu</p>
-    <p><strong>Address:</strong> Luddy Hall 3051</p>
-    <p>700 N Woodlawn Avenue</p>
-    <p>Bloomington, IN, 47408</p>
+  logos: true
+  image: prof_pic.png
+  href: '/members/pisanic'
+  address: >
+        Institute for NanoBioTechnology<br />
+        Shaffer 200D<br />
+        3400 N Charles St<br />        
+        Baltimore, MD 21218
 
-news: true # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fifth-year PhD student at the [Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington](https://luddy.indiana.edu/). My research is co-advised by Prof. [Xiaojing Liao](https://www.xiaojingliao.com/) and Prof. [XiaoFeng Wang](https://homes.luddy.indiana.edu/xw7/). 
-My research mainly focuses on system security, especially cybercrime and machine learning security. Presently, my exploration is centered on the security around Large Language Models (LLM).
+Welcome to to the website of Dr. Thomas Pisanic and the Epidiagnostics Group at Johns Hopkins University! I work with the <a href = "https://me.jhu.edu/thwang/">Wang laboratory</a> and an interdisciplinary <a href="/team/">team of JHU researchers</a> to gain deeper insight into the epigenetics of carcinogenesis and apply this knowledge toward the development of novel microfluidic molecular analysis platforms for cancer diagnostic applications. Our "epidiagnostics" team is comprised of faculty with a wide range of complementary expertise, including: <a href = "/members/Pisanic">Dr. Thomas Pisanic </a> (epigenetics, biomarker discovery and assay development), <a href = "https://engineering.jhu.edu/faculty/tza-huei-jeff-wang/"> Dr. Tza-Huei Wang </a>(bioengineering and microfluidic technologies), <a href ="https://www.hopkinsmedicine.org/profiles/details/hariharan-easwaran">Dr. Hari Easwaran </a> (genetics and epigenetics of cancer and aging) and <a href="https://www.hopkinsmedicine.org/profiles/details/leslie-cope">Dr. Leslie Cope</a> (biostatistics and bioinformatics). Together, we work with numerous <a href ="/collaborators"> collaborators</a> from Johns Hopkins and beyond to apply our epigenetic methods to resolve manifold challenges in various areas of cancer research.
 
-Besides academic research, I’m also interested in violin and swimming. I am currently honing my skills in violin performance at the [Jacobs School of Music, Indiana University Bloomington](https://music.indiana.edu/).

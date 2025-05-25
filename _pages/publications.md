@@ -1,15 +1,19 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
-description: Publications by categories in reversed chronological order. <font color=darkred><b>(* with equal contribution)</b></font>
+title: publications
+page-title: Publications
+description: Publications from the Epidiagnostics Group.
+years: [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013]
 nav: true
-nav_order: 2
+nav_order: 4
 ---
-
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
 
 </div>
