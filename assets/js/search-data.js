@@ -440,16 +440,44 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-is-accepted-at-ieee-s-amp-amp-p-24",
+          title: 'Our paper is accepted at IEEE S&amp;amp;amp;P ‘24.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-thrilled-to-provide-the-talk-on-llm-security-to-capital-one",
+          title: 'Thrilled to provide the talk on LLM security to Capital One.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-will-serve-as-a-member-of-the-artifact-evaluation-committee-for-ccs-24",
+          title: 'I will serve as a member of the Artifact Evaluation Committee for CCS...',
+          description: "",
+          section: "News",},{id: "news-honored-to-be-awarded-a-student-travel-grant-to-attend-ieee-s-amp-amp-p-24-thanks-ieee-s-amp-amp-p",
+          title: 'Honored to be awarded a student travel grant to attend IEEE S&amp;amp;amp;P ‘24....',
+          description: "",
+          section: "News",},{id: "news-honored-to-receive-the-luddy-outstanding-researcher-award-thanks-to-the-guidance-of-my-advisors-in-my-research-work",
+          title: 'Honored to receive the Luddy Outstanding Researcher Award, thanks to the guidance of...',
+          description: "",
+          section: "News",},{id: "news-honored-to-give-a-talk-about-mawseo-at-ieee-s-amp-amp-p-2024-the-animation-video-of-this-work-is-available-on-youtube-in-english-and-bilibili-in-chinese",
+          title: 'Honored to give a talk about MAWSEO at IEEE S&amp;amp;amp;P 2024. The animation...',
+          description: "",
+          section: "News",},{id: "news-our-paper-malla-demystifying-real-world-large-language-model-integrated-malicious-services-is-accepted-by-usenix-security-24",
+          title: 'Our paper Malla: Demystifying Real-world Large Language Model Integrated Malicious Services is accepted...',
+          description: "",
+          section: "News",},{id: "news-i-will-serve-as-a-member-of-the-artifact-evaluation-committee-for-ndss-25",
+          title: 'I will serve as a member of the Artifact Evaluation Committee for NDSS...',
+          description: "",
+          section: "News",},{id: "news-ai-incident-database-has-included-our-research-real-world-large-language-model-integrated-malicious-services-presented-at-usenix-security-24",
+          title: 'AI Incident Database has included our research Real-world Large Language Model Integrated Malicious...',
+          description: "",
+          section: "News",},{id: "news-honored-to-give-a-talk-at-the-33rd-usenix-security-symposium-about-large-language-model-integrated-malicious-services-whose-repository-has-been-awarded-all-three-badges-in-the-usenix-security-24-artifact-evaluation-the-animation-video-of-this-work-is-available-on-youtube-in-english-and-bilibili-in-chinese",
+          title: 'Honored to give a talk at the 33rd USENIX Security Symposium about Large...',
+          description: "",
+          section: "News",},{id: "news-i-will-serve-as-a-member-of-the-artifact-evaluation-committee-for-acsac-25",
+          title: 'I will serve as a member of the Artifact Evaluation Committee for ACSAC...',
+          description: "",
+          section: "News",},{id: "news-honored-to-be-awarded-a-student-conference-grant-to-attend-acm-ccs-24-thanks-acm-ccs",
+          title: 'Honored to be awarded a student conference grant to attend ACM CCS ‘24....',
+          description: "",
+          section: "News",},{id: "news-our-paper-malla-demystifying-real-world-large-language-model-integrated-malicious-services-has-been-selected-as-a-top-15-finalist-in-the-2024-csaw-applied-research-competition",
+          title: 'Our paper Malla: Demystifying Real-world Large Language Model Integrated Malicious Services has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -497,39 +525,39 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.org/pid/227/2961-1.html", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%7A%69%6C%6C%69%6E@%69%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0001-5553-1165", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=jfCHZR0AAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://twitter.com/zllinxs", "_blank");
         },
       },{
       id: 'light-theme',
