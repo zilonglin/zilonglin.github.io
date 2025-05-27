@@ -184,6 +184,13 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+	
+	{% if entry.award %}
+      <div style="color: #808080; margin-left: 2px;"><b>• Award</b>: <i>{{entry.award}}</i></div>
+    {% endif %}
+    {% if entry.media %}
+      <span style="color: #808080; margin-left: 2px;"><b>• Media Coverage</b>: <i>{{entry.media}}</i></span>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
