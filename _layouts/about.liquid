@@ -63,6 +63,20 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+	
+	<!-- Awards & Honors -->
+    {% if page.awards %}
+      <h2 style="margin-top:40pt;margin-bottom:20pt">
+        <a style="color: inherit">Awards & Honors</a>
+      </h2>
+      <div class="awards">
+        {% capture awards_content %}
+          {% include_relative awards.md %}
+        {% endcapture %}
+        {% assign awards_content = awards_content | split: "---" | last %}
+        {{ awards_content | markdownify }}
+      </div>
+    {% endif %}
 
     <!-- Social -->
     {% if page.social %}
