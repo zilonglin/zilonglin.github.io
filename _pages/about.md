@@ -29,6 +29,7 @@ latest_posts:
 ---
 
 I am a final-year PhD student at the [Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington](https://luddy.indiana.edu/). My research is co-advised by Prof. [Xiaojing Liao](https://www.xiaojingliao.com/) and Prof. [XiaoFeng Wang](https://wangxiaofeng7.github.io/). 
-My research mainly focuses on system security, especially cybercrime and machine learning security. Presently, my exploration is centered on the security around the supply chain of Large Language Models.
 
-Besides academic research, I’m also interested in violin and swimming. I am currently honing my skills in violin performance at the [Jacobs School of Music, Indiana University Bloomington](https://music.indiana.edu/).
+My research mainly focuses on data-driven security, especially cybercrime measurement and machine learning security. Presently, my exploration is centered on the security around the supply chain of Large Language Models.
+
+Besides academic research, I'm also interested in violin and swimming. I am currently honing my skills in violin performance at the [Jacobs School of Music, Indiana University Bloomington](https://music.indiana.edu/).
