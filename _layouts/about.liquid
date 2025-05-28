@@ -59,7 +59,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
@@ -75,6 +75,20 @@ layout: default
         {% endcapture %}
         {% assign awards_content = awards_content | split: "---" | last %}
         {{ awards_content | markdownify }}
+      </div>
+    {% endif %}
+	
+	<!-- Services -->
+    {% if page.services %}
+      <h2 style="margin-top:40pt;margin-bottom:20pt">
+        <a style="color: inherit">Services</a>
+      </h2>
+      <div class="services">
+        {% capture services_content %}
+          {% include_relative services.md %}
+        {% endcapture %}
+        {% assign services_content = services_content | split: "---" | last %}
+        {{ services_content | markdownify }}
       </div>
     {% endif %}
 	

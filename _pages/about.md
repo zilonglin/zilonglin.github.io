@@ -23,6 +23,8 @@ announcements:
   limit: 15 # leave blank to include all the news in the `_news` folder
 
 awards: true
+education: true
+services: true
 
 latest_posts:
   enabled: false
