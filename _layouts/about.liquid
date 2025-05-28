@@ -48,6 +48,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 	
+	<!-- News -->
+    {% if page.announcements and page.announcements.enabled %}
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+      </h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
+	
 	<!-- Awards & Honors -->
     {% if page.awards %}
       <h2 style="margin-top:40pt;margin-bottom:20pt">
@@ -88,14 +96,6 @@ layout: default
         {% assign education_content = education_content | split: "---" | last %}
         {{ education_content | markdownify }}
       </div>
-    {% endif %}
-	
-	<!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-      </h2>
-      {% include news.liquid limit=true %}
     {% endif %}
 
     <!-- Social -->
