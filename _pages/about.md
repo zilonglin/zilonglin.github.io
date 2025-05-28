@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate in Computer Science at <a href='https://bloomington.iu.edu/'>Indiana University Bloomington</a>.
 

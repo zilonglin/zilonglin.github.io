@@ -77,6 +77,20 @@ layout: default
         {{ awards_content | markdownify }}
       </div>
     {% endif %}
+	
+	<!-- Education -->
+    {% if page.education %}
+      <h2 style="margin-top:40pt;margin-bottom:20pt">
+        <a style="color: inherit">Education</a>
+      </h2>
+      <div class="education">
+        {% capture education_content %}
+          {% include_relative education.md %}
+        {% endcapture %}
+        {% assign education_content = education_content | split: "---" | last %}
+        {{ education_content | markdownify }}
+      </div>
+    {% endif %}
 
     <!-- Social -->
     {% if page.social %}
