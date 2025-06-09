@@ -39,4 +39,6 @@ My research mainly focuses on data-driven security, especially cyber threat inte
 
 Besides academic research, I'm also interested in violin and swimming. I am currently honing my skills in violin performance at the [Jacobs School of Music, Indiana University Bloomington](https://music.indiana.edu/).
 
-<span style="color: #990000"><strong>I am looking for self-motivated Ph.D. students to start in Spring or Fall 2026.</strong></span>
+<span style="color:crimson; font-weight:bold;">
+I am looking for self-motivated Ph.D. students to start in Spring or Fall 2026.
+</span>
