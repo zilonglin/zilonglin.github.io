@@ -39,6 +39,20 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
+	
+	<!-- Research -->
+    {% if page.research %}
+      <h2 style="margin-top:40pt;margin-bottom:20pt">
+        <a style="color: inherit">Research</a>
+      </h2>
+      <div class="research">
+        {% capture research_content %}
+          {% include_relative research.md %}
+        {% endcapture %}
+        {% assign research_content = research_content | split: "---" | last %}
+        {{ research_content | markdownify }}
+      </div>
+    {% endif %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
