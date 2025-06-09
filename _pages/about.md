@@ -41,4 +41,4 @@ Besides academic research, I'm also interested in violin and swimming. I am curr
 
 <span style="color:crimson; font-weight:bold;">
 I am looking for self-motivated Ph.D. students to start in Spring or Fall 2026.
-</span>
+If you are interested in working with me, please fill out this [questionnaire](https://forms.gle/Lh1m1SNwGWiJAj159) and send me an email: zillin [at] iu [dot] edu</span>
