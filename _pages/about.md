@@ -41,4 +41,4 @@ Besides academic research, I'm also interested in violin and swimming. I am curr
 
 <span style="color:crimson; font-weight:bold;">
 I am looking for self-motivated Ph.D. students to start in Spring or Fall 2026.
-If you are interested in working with me, please send me an email: zllinxs [at] outlook [dot] com</span>
+If you are interested in working with me, please send me an email: zllinxs [at] outlook [dot] com</span> 
