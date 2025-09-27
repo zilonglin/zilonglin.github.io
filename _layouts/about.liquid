@@ -112,6 +112,20 @@ layout: default
         {{ education_content | markdownify }}
       </div>
     {% endif %}
+	
+    <!-- Teaching -->
+    {% if page.teaching %}
+      <h2>
+        <a style="color: inherit">Teaching</a>
+      </h2>
+      <div class="teaching">
+        {% capture teaching_content %}
+          {% include_relative teaching.md %}
+        {% endcapture %}
+        {% assign teaching_content = teaching_content | split: "---" | last %}
+        {{ education_content | markdownify }}
+      </div>
+    {% endif %}
 
     <!-- Social -->
     {% if page.social %}
