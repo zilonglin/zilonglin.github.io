@@ -16,7 +16,6 @@ permalink: /services/
      <br/><br/>       
     
 * Artifacts Evaluation Committee Member
-
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">ACSAC </span> Annual Computer Security Applications Conference: `2022`, `2023`, `2024` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">WWW</span> The Web Conference: `2024` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">CCS</span> ACM Conference on Computer and Communications Security:`2024`, `2025`
@@ -25,7 +24,6 @@ permalink: /services/
 	 <br/><br/> 
 
 * External Reviewer
-
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">IEEE S&P </span> IEEE Symposium on Security and Privacy:  
 	* <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">USENIX Security</span> USENIX Security Symposium: `2024` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">CCS</span> ACM Conference on Computer and Communications Security: `2024`, `2025`

@@ -21,6 +21,7 @@ research: true
 awards: true
 education: true
 services: true
+teaching: true
 
 announcements:
   enabled: true # includes a list of news items
