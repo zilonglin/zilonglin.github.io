@@ -34,7 +34,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a tenure-track Assistant Professor of Computer Science at the [University of Missouri - Kansas City](https://www.umkc.edu/), effective Fall 2025. I received my Ph.D. in Computer Science from [Indiana University Bloomington](https://luddy.indiana.edu/), co-advised by Prof. [Xiaojing Liao](https://www.xiaojingliao.com/) and Prof. [XiaoFeng Wang](https://wangxiaofeng7.github.io/).
+I am a tenure-track Assistant Professor of Computer Science at the [University of Missouri-Kansas City](https://www.umkc.edu/), effective Fall 2025. I received my Ph.D. in Computer Science from [Indiana University Bloomington](https://luddy.indiana.edu/), co-advised by Prof. [Xiaojing Liao](https://www.xiaojingliao.com/) and Prof. [XiaoFeng Wang](https://wangxiaofeng7.github.io/).
 
 My research mainly focuses on data-driven security, especially cyber threat intelligence and secure machine learning systems. Presently, my exploration is centered on the security around Large Language Models.
 
