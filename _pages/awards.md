@@ -4,7 +4,7 @@ title: Awards
 permalink: /awards/
 ---
 
-* [ACM CCS Distinguished Artifact Reviewer](https://www.sigsac.org/ccs/CCS2025/artifact-evaluation-committee/), 2025
+* [ACM CCS Distinguished Artifact Reviewer](https://www.sigsac.org/ccs/CCS2025/awards/), 2025
 * [Luddy Outstanding Researcher Award](), 2024
 * [Top-15 finalist, 2024 CSAW Best Applied Security Research Paper Competition](https://www.csaw.io/research), 2024
 * [ACM CCS Student Grant](https://www.sigsac.org/ccs/CCS2024/attending/conference-grants.html), 2024 
