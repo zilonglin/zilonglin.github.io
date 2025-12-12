@@ -379,12 +379,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-is-accepted-at-ieee-s-amp-amp-p-24",
+      },{id: "news-our-paper-is-accepted-at-ieee-s-amp-amp-p-24",
           title: 'Our paper is accepted at IEEE S&amp;amp;amp;P ‘24.',
           description: "",
           section: "News",},{id: "news-thrilled-to-provide-the-talk-on-llm-security-to-capital-one",
