@@ -41,5 +41,5 @@ My research mainly focuses on data-driven security, especially cyber threat inte
 Besides academic research, I'm also interested in violin and swimming. I studied violin performance at the [Jacobs School of Music, Indiana University Bloomington](https://music.indiana.edu/).
 
 <span style="color:crimson; font-weight:bold;">
-I am looking for self-motivated Ph.D. students to start in Spring or Fall 2026.
+I am looking for self-motivated Ph.D. students to start in Fall 2026.
 If you are interested in working with me, please send me an email: zlin [at] umkc [dot] edu</span> 
