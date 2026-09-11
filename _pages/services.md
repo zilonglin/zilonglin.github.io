@@ -8,8 +8,10 @@ permalink: /services/
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">SECURITY</span> USENIX Security Symposium: `2027` 
 	* <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">CCS</span> ACM Conference on Computer and Communications Security: `2026` 
 	* <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">ACSAC</span> IEEE Annual Computer Security Applications Conference: `2026` 
-    * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">EuroS&P</span> IEEE European Symposium on Security and Privacy: `2026` 
+    * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">EuroS&P</span> IEEE European Symposium on Security and Privacy: `2026`, `2027` 
+    * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">AAAI</span> Annual AAAI Conference on Artificial Intelligence: `2027` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">WWW</span> The Web Conference: `2026` 
+    * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">SaTML</span> IEEE Conference on Secure and Trustworthy Machine Learning: `2027` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">HumSec@ESORICS</span> Workshop on Human-Targeted Cyber Threats and Defenses, ESORICS: `2026` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">ICANN</span> International Conference on Artificial Neural Networks: `2021`, `2023`
     <br/>  
