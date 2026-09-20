@@ -12,6 +12,7 @@ permalink: /services/
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">AAAI</span> Annual AAAI Conference on Artificial Intelligence: `2027` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">WWW</span> The Web Conference: `2026` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">SaTML</span> IEEE Conference on Secure and Trustworthy Machine Learning: `2027` 
+    * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">CSET@ACSAC</span> Cyber Security Experimentation and Test Workshop, ACSAC: `2026` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">HumSec@ESORICS</span> Workshop on Human-Targeted Cyber Threats and Defenses, ESORICS: `2026` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">ICANN</span> International Conference on Artificial Neural Networks: `2021`, `2023`
     <br/>  
