@@ -12,11 +12,10 @@ permalink: /services/
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">AAAI</span> Annual AAAI Conference on Artificial Intelligence: `2027` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">WWW</span> The Web Conference: `2026` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">SaTML</span> IEEE Conference on Secure and Trustworthy Machine Learning: `2027` 
-    * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">CSET@ACSAC</span> Cyber Security Experimentation and Test Workshop, ACSAC: `2026` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">HumSec@ESORICS</span> Workshop on Human-Targeted Cyber Threats and Defenses, ESORICS: `2026` 
+    * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">CSET@ACSAC</span> Cyber Security Experimentation and Test Workshop, ACSAC: `2026` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">ICANN</span> International Conference on Artificial Neural Networks: `2021`, `2023`
     <br/>  
-    
 * Reviewer     
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">ICLR</span> International Conference on Learning Representations: `2024`, `2025`, `2026`  
 	* <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">T-IFS</span> IEEE Transactions on Information Forensics & Security: `2023`, `2024`, `2025`        
@@ -25,7 +24,6 @@ permalink: /services/
 	* <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">TDSC</span> IEEE Transactions on Dependable and Secure Computing: `2025`, `2026`
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">TBD</span> IEEE Transactions on Big Data: `2025`
     <br/> 
-    
 * Artifacts Evaluation Committee Member
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">ACSAC </span> Annual Computer Security Applications Conference: `2022`, `2023`, `2024` 
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">WWW</span> The Web Conference: `2024` 
@@ -33,7 +31,6 @@ permalink: /services/
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">NDSS</span> Network and Distributed System Security Symposium: `2025`
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">USENIX Security</span> USENIX Security Symposium: `2025`, `2026`
 	 <br/> 
-
 * Sub-Reviewer
     * <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">IEEE S&P </span> IEEE Symposium on Security and Privacy: `2021`, `2022`, `2023`, `2024`
 	* <span class="badge align-middle" style="min-width:75px;background-color:var(--global-theme-color)">USENIX Security</span> USENIX Security Symposium: `2022`, `2024` 
