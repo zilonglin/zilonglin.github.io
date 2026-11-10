@@ -26,7 +26,7 @@ teaching: true
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 10 # leave blank to include all the news in the `_news` folder
+  limit: 8 # leave blank to include all the news in the `_news` folder
 ---
 
 I am a tenure-track Assistant Professor of Computer Science at the [University of Missouri-Kansas City](https://www.umkc.edu/), effective Fall 2025. I received my Ph.D. in Computer Science from [Indiana University Bloomington](https://luddy.indiana.edu/).
