@@ -1,6 +1,6 @@
 @echo off
 REM Removes leftover al-folio template demo content (Einstein pages, demo blog posts,
-REM demo projects, sample CV, demo media, theme docs). Your own pages, papers, news and images are kept.
+REM blog (pages, posts, archives), demo projects, sample CV, demo media, theme docs). Your own pages, papers, news and images are kept.
 cd /d "%~dp0"
 echo Removing al-folio template demo content...
 if exist "_posts" rmdir /s /q "_posts"
@@ -30,6 +30,11 @@ if exist "FAQ.md" del /q "FAQ.md"
 if exist "INSTALL.md" del /q "INSTALL.md"
 if exist "CONTRIBUTING.md" del /q "CONTRIBUTING.md"
 if exist ".all-contributorsrc" del /q ".all-contributorsrc"
+if exist "_layouts\archive.liquid" del /q "_layouts\archive.liquid"
+if exist "_includes\latest_posts.liquid" del /q "_includes\latest_posts.liquid"
+if exist "_includes\related_posts.liquid" del /q "_includes\related_posts.liquid"
+if exist "_includes\pagination.liquid" del /q "_includes\pagination.liquid"
+if exist "_plugins\external-posts.rb" del /q "_plugins\external-posts.rb"
 echo Done. Commit and push the changes (e.g. in VS Code / GitHub Desktop) to redeploy.
 pause
 (goto) 2>nul & del "%~f0"
