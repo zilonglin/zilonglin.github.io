@@ -31,10 +31,10 @@ announcements:
 
 I am a tenure-track Assistant Professor of Computer Science at the [University of Missouri-Kansas City](https://www.umkc.edu/), effective Fall 2025. I received my Ph.D. in Computer Science from [Indiana University Bloomington](https://luddy.indiana.edu/).
 
-My research mainly focuses on data-driven security, especially cyber threat intelligence and secure machine learning systems. Presently, my exploration is centered on the security around Large Language Models.
+My research mainly focuses on data-driven security, especially cyber threat intelligence and secure machine learning systems. Presently, my exploration is centered on the security around Generative AI ecosystems.
 
 Besides academic research, I'm also interested in violin and swimming. I studied violin performance at the [Jacobs School of Music, Indiana University Bloomington](https://music.indiana.edu/).
 
 <span style="color:crimson; font-weight:bold;">
-I am looking for self-motivated Ph.D. students to start in Spring/Fall 2027.
+I am looking for self-motivated Ph.D. students to start in Fall 2027.
 If you are interested in working with me, please send me an email: zlin [at] umkc [dot] edu</span>
