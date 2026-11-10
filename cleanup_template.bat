@@ -1,0 +1,35 @@
+@echo off
+REM Removes leftover al-folio template demo content (Einstein pages, demo blog posts,
+REM demo projects, sample CV, demo media, theme docs). Your own pages, papers, news and images are kept.
+cd /d "%~dp0"
+echo Removing al-folio template demo content...
+if exist "_posts" rmdir /s /q "_posts"
+if exist "_projects" rmdir /s /q "_projects"
+if exist "_books" rmdir /s /q "_books"
+if exist "readme_preview" rmdir /s /q "readme_preview"
+if exist "lighthouse_results" rmdir /s /q "lighthouse_results"
+if exist "assets\json" rmdir /s /q "assets\json"
+if exist "assets\jupyter" rmdir /s /q "assets\jupyter"
+if exist "assets\plotly" rmdir /s /q "assets\plotly"
+if exist "assets\video" rmdir /s /q "assets\video"
+if exist "assets\html" rmdir /s /q "assets\html"
+if exist "assets\bibliography" rmdir /s /q "assets\bibliography"
+if exist "assets\audio" rmdir /s /q "assets\audio"
+if exist "_pages\about_einstein.md" del /q "_pages\about_einstein.md"
+if exist "_pages\blog.md" del /q "_pages\blog.md"
+if exist "_pages\books.md" del /q "_pages\books.md"
+if exist "_pages\cv.md" del /q "_pages\cv.md"
+if exist "_pages\dropdown.md" del /q "_pages\dropdown.md"
+if exist "_pages\profiles.md" del /q "_pages\profiles.md"
+if exist "_pages\projects.md" del /q "_pages\projects.md"
+if exist "_pages\repositories.md" del /q "_pages\repositories.md"
+if exist "_data\cv.yml" del /q "_data\cv.yml"
+if exist "assets\pdf\example_pdf.pdf" del /q "assets\pdf\example_pdf.pdf"
+if exist "CUSTOMIZE.md" del /q "CUSTOMIZE.md"
+if exist "FAQ.md" del /q "FAQ.md"
+if exist "INSTALL.md" del /q "INSTALL.md"
+if exist "CONTRIBUTING.md" del /q "CONTRIBUTING.md"
+if exist ".all-contributorsrc" del /q ".all-contributorsrc"
+echo Done. Commit and push the changes (e.g. in VS Code / GitHub Desktop) to redeploy.
+pause
+(goto) 2>nul & del "%~f0"

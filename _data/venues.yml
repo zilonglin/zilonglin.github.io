@@ -1,9 +1,5 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+# Optional custom colors/links for publication venue badges (keyed by the bib "abbr" field), e.g.
+# "NDSS'22":
+#   url: https://www.ndss-symposium.org/
+#   color: "#00369f"
+{}
