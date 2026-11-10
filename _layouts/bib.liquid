@@ -184,12 +184,16 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
-	
-	{% if entry.award %}
-      <div style="color: #808080; margin-left: 2px;"><b>• Award</b>: <i>{{entry.award}}</i></div>
+
+    {% if entry.award %}
+      <div style="color: #808080; margin-left: 2px;">
+        <b>• Award</b>: <span class="award-text">{{ entry.award }}</span>
+      </div>
     {% endif %}
     {% if entry.media %}
-      <span style="color: #808080; margin-left: 2px;"><b>• Media Coverage</b>: <i>{{entry.media}}</i></span>
+      <span style="color: #808080; margin-left: 2px;"
+        ><b>• Media Coverage</b>: <i>{{ entry.media }}</i></span
+      >
     {% endif %}
 
     <!-- Links/Buttons -->
@@ -240,8 +244,19 @@
       {% if entry.blog %}
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
       {% endif %}
-      {% if entry.code %}
+      {% if entry.github %}
+        <a href="{{ entry.github }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-brands fa-github"></i> GitHub</a>
+      {% elsif entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+      {% endif %}
+      {% if entry.huggingface %}
+        {% assign hf_links = entry.huggingface | split: ',' %}
+        {% for hf_link in hf_links %}
+          {% assign hf_url = hf_link | strip %}
+          <a href="{{ hf_url }}" class="btn btn-sm z-depth-0" role="button"
+            >🤗 {% if hf_links.size > 1 %}{{ hf_url | split: '/' | last }}{% else %}Hugging Face{% endif -%}
+          </a>
+        {% endfor %}
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}

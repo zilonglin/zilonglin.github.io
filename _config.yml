@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Zilong
-middle_name: 
+middle_name:
 last_name: Lin
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -274,6 +274,8 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
+    github,
+    huggingface,
     google_scholar_id,
     html,
     inspirehep_id,

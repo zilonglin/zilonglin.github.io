@@ -30,6 +30,15 @@ module Jekyll
       scholar_id = context[@scholar_id.strip]
       article_url = "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=#{scholar_id}&citation_for_view=#{scholar_id}:#{article_id}"
 
+      # Prefer counts stored in _data/citations.yml (refresh with bin/update_citations.py).
+      # Google Scholar blocks requests from GitHub Actions, so live fetching usually fails there.
+      stored = context.registers[:site].data.dig('citations', 'papers', article_id.to_s)
+      unless stored.nil?
+        stored = stored.to_i
+        return stored.to_s if stored < 1000
+        return Helpers.number_to_human(stored, :format => '%n%u', :precision => 2, :units => { :thousand => 'K', :million => 'M', :billion => 'B' })
+      end
+
       begin
           # If the citation count has already been fetched, return it
           if GoogleScholarCitationsTag::Citations[article_id]

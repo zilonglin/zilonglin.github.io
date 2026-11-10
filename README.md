@@ -7,14 +7,14 @@ and deployed to GitHub Pages by the `Deploy site` GitHub Action (`.github/workfl
 
 ## Where to edit
 
-| What | File |
-| --- | --- |
-| Home page / bio | `_pages/about.md` |
-| Publications | `_bibliography/papers.bib` |
-| News | `_news/announcement_*.md` |
-| Research, Awards, Education, Services, Teaching | `_pages/*.md` |
-| Social links | `_data/socials.yml` |
-| Site settings | `_config.yml` |
+| What                                            | File                       |
+| ----------------------------------------------- | -------------------------- |
+| Home page / bio                                 | `_pages/about.md`          |
+| Publications                                    | `_bibliography/papers.bib` |
+| News                                            | `_news/announcement_*.md`  |
+| Research, Awards, Education, Services, Teaching | `_pages/*.md`              |
+| Social links                                    | `_data/socials.yml`        |
+| Site settings                                   | `_config.yml`              |
 
 ### Publication fields
 
@@ -26,6 +26,15 @@ Besides the standard BibTeX fields, each entry in `papers.bib` can use:
 - `html`, `pdf`, `code`, `video` – buttons
 - `preview` – thumbnail in `assets/img/publication_preview/`
 - `selected={true}` – also show on the home page
+
+## Updating Google Scholar citation counts
+
+Google Scholar blocks requests from GitHub Actions, so the citation badges read their numbers from
+`_data/citations.yml`. To refresh them, run this on your own computer, then commit and push the updated file:
+
+```bash
+python bin/update_citations.py
+```
 
 ## Local preview
 

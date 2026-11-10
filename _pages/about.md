@@ -27,7 +27,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 10 # leave blank to include all the news in the `_news` folder
-
 ---
 
 I am a tenure-track Assistant Professor of Computer Science at the [University of Missouri-Kansas City](https://www.umkc.edu/), effective Fall 2025. I received my Ph.D. in Computer Science from [Indiana University Bloomington](https://luddy.indiana.edu/).
@@ -38,4 +37,4 @@ Besides academic research, I'm also interested in violin and swimming. I studied
 
 <span style="color:crimson; font-weight:bold;">
 I am looking for self-motivated Ph.D. students to start in Spring/Fall 2027.
-If you are interested in working with me, please send me an email: zlin [at] umkc [dot] edu</span> 
+If you are interested in working with me, please send me an email: zlin [at] umkc [dot] edu</span>

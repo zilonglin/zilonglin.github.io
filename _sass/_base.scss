@@ -1417,3 +1417,12 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// Publication awards in red (light: #a82e2e, brighter in dark mode for contrast)
+.publications .award-text {
+  color: #a82e2e;
+}
+
+html[data-theme="dark"] .publications .award-text {
+  color: #ef7b7b;
+}

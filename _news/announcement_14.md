@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 
+title:
 date: 2025-06-09 16:00:00-0000
 inline: true
 related_posts: false
 ---
-I will join the [University of Missouri - Kansas City](https://www.umkc.edu/) (*Carnegie R1 institution*) as a tenure-track Assistant Professor in Fall 2025.
+
+I will join the [University of Missouri - Kansas City](https://www.umkc.edu/) (_Carnegie R1 institution_) as a tenure-track Assistant Professor in Fall 2025.

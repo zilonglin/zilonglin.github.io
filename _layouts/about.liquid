@@ -39,8 +39,8 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
-	
-	<!-- Research -->
+
+    <!-- Research -->
     {% if page.research %}
       <h2 style="margin-top:-5.5pt">
         <a style="color: inherit">Research</a>
@@ -49,7 +49,7 @@ layout: default
         {% capture research_content %}
           {% include_relative research.md %}
         {% endcapture %}
-        {% assign research_content = research_content | split: "---" | last %}
+        {% assign research_content = research_content | split: '---' | last %}
         {{ research_content | markdownify }}
       </div>
     {% endif %}
@@ -61,32 +61,31 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-	
-	<!-- News -->
+
+    <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
-	
-	<!-- Awards & Honors -->
+
+    <!-- Awards & Honors -->
     {% if page.awards %}
-      <h2>
-	  <h2 style="margin-top:30pt">
-	  <!-- <h2 style="margin-top:40pt;margin-bottom:20pt"> -->
+      <h2 style="margin-top:30pt">
+        <!-- <h2 style="margin-top:40pt;margin-bottom:20pt"> -->
         <a style="color: inherit">Awards & Honors</a>
       </h2>
       <div class="awards">
         {% capture awards_content %}
           {% include_relative awards.md %}
         {% endcapture %}
-        {% assign awards_content = awards_content | split: "---" | last %}
+        {% assign awards_content = awards_content | split: '---' | last %}
         {{ awards_content | markdownify }}
       </div>
     {% endif %}
-	
-	<!-- Services -->
+
+    <!-- Services -->
     {% if page.services %}
       <h2>
         <a style="color: inherit">Services</a>
@@ -95,12 +94,12 @@ layout: default
         {% capture services_content %}
           {% include_relative services.md %}
         {% endcapture %}
-        {% assign services_content = services_content | split: "---" | last %}
+        {% assign services_content = services_content | split: '---' | last %}
         {{ services_content | markdownify }}
       </div>
     {% endif %}
-	
-	<!-- Education -->
+
+    <!-- Education -->
     {% if page.education %}
       <h2>
         <a style="color: inherit">Education</a>
@@ -109,11 +108,11 @@ layout: default
         {% capture education_content %}
           {% include_relative education.md %}
         {% endcapture %}
-        {% assign education_content = education_content | split: "---" | last %}
+        {% assign education_content = education_content | split: '---' | last %}
         {{ education_content | markdownify }}
       </div>
     {% endif %}
-	
+
     <!-- Teaching -->
     {% if page.teaching %}
       <h2>
@@ -123,7 +122,7 @@ layout: default
         {% capture teaching_content %}
           {% include_relative teaching.md %}
         {% endcapture %}
-        {% assign teaching_content = teaching_content | split: "---" | last %}
+        {% assign teaching_content = teaching_content | split: '---' | last %}
         {{ teaching_content | markdownify }}
       </div>
     {% endif %}
@@ -136,12 +135,12 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
-	
-	<!-- Visit tracker -->
+
+    <!-- Visit tracker -->
     <div style="position: relative; left: 37%; bottom: 0;">
-	  <a href="https://mapmyvisitors.com/web/1c7ih"  title="Visit tracker">
-	    <img src="https://mapmyvisitors.com/map.png?d=UYpakJt3SK1n2ChLPes2HMRfKJ1p92zb2b2u-a9NA-c&cl=ffffff" />
-	  </a>
+      <a href="https://mapmyvisitors.com/web/1c7ih" title="Visit tracker">
+        <img src="https://mapmyvisitors.com/map.png?d=UYpakJt3SK1n2ChLPes2HMRfKJ1p92zb2b2u-a9NA-c&cl=ffffff">
+      </a>
     </div>
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
