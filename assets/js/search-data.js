@@ -79,6 +79,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-co-first-author-papers-were-accepted-by-acm-imc-2026-and-ndss-2027-all-in-one-lucky-day",
           title: 'Two (co-)first-author papers were accepted by ACM IMC 2026 and NDSS 2027—all in...',
           description: "",
+          section: "News",},{id: "news-i-will-present-our-recent-acm-imc-2026-study-at-the-2026-central-area-networking-and-security-workshop-cansec-26",
+          title: 'I will present our recent ACM IMC 2026 study at the 2026 Central...',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
